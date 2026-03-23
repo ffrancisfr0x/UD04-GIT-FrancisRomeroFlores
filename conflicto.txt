@@ -1,1 +1,1 @@
-Este es el archivo CONFLICTO
+CAMBIO EN LINEA1 desde RAMA_2 por Francis Romero Flores
